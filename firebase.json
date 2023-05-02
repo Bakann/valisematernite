@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "valisematernite",
     "public" : "public",
     "ignore": [
       "firebase.json",
