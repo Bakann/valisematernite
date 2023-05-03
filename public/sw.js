@@ -5,7 +5,7 @@ self.addEventListener('install', (event) => {
                 '/',
                 '/index.html',
                 '/blog.css',
-                '/script.js',
+                '/index.js',
             ]);
         })
     );
